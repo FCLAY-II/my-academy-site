@@ -1,3 +1,3 @@
 # my-academy-site
-#Demo-page
+# Demo-page
 https://fclay-ii.github.io/my-academy-site/
